@@ -13,4 +13,5 @@ Generative AI & LLMs are a once-in-a-generation shift in technology.
 #### How do LLMs Work?
 A simplified version of LLM training process
 
-![image](https://github.com/ijaz-lab/LLMS-GenerativeAI/assets/78338522/af66c24b-6fa3-4f19-9058-0e4be1d09b18)
+
+![image](https://github.com/ijaz-lab/LLMS-GenerativeAI/assets/78338522/8f06fcfd-9a10-4127-9433-58c71d02e263)
