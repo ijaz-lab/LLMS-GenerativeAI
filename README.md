@@ -15,3 +15,8 @@ A simplified version of LLM training process
 
 
 ![image](https://github.com/ijaz-lab/LLMS-GenerativeAI/assets/78338522/8f06fcfd-9a10-4127-9433-58c71d02e263)
+
+#### An Overview of Common LLMs
+Open-source and Closed LLMs
+
+![image](https://github.com/ijaz-lab/LLMS-GenerativeAI/assets/78338522/80c99ec3-a47a-440e-bdb1-66c9f3f24cc3)
