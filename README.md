@@ -20,3 +20,9 @@ A simplified version of LLM training process
 Open-source and Closed LLMs
 
 ![image](https://github.com/ijaz-lab/LLMS-GenerativeAI/assets/78338522/80c99ec3-a47a-440e-bdb1-66c9f3f24cc3)
+
+#### LLMs Generate Output for NLP Tasks
+Common LLM task
+
+![image](https://github.com/ijaz-lab/LLMS-GenerativeAI/assets/78338522/a338bc8c-741b-41af-98fb-988a052c0901)
+
