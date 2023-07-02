@@ -51,8 +51,40 @@ Building your own modern LLM applications
 
 ![image](https://github.com/ijaz-lab/LLMS-GenerativeAI/assets/78338522/eefd8474-20a2-4495-babf-1ce3acc9c4b1)
 
+##### Choose the right LLM model flavor
+
+There is no "perfect" model, trade-offs are required
+ 
+![image](https://github.com/ijaz-lab/LLMS-GenerativeAI/assets/78338522/c89e684d-e14a-4b0c-a1c2-94ceec2ff71e)
+
+#### Using Proprietary Models (LLMs-as-a-Service)
+
+![image](https://github.com/ijaz-lab/LLMS-GenerativeAI/assets/78338522/de64f068-0072-4999-a5be-5934ca8dd842)
 
 
+#### Using Open Source Models
+
+![image](https://github.com/ijaz-lab/LLMS-GenerativeAI/assets/78338522/5efe3286-1df3-4f34-a18c-61653ad21293)
 
 
+### Fine Tuned Models
+What is fine-tuning and how it works
+
+
+![image](https://github.com/ijaz-lab/LLMS-GenerativeAI/assets/78338522/c88f6f97-8f82-4ea3-b437-9e73144347d4)
+#### Specific Tasks
+![image](https://github.com/ijaz-lab/LLMS-GenerativeAI/assets/78338522/e0435d79-d6a4-4ff6-a0fc-86614ceeaeb6)
+
+#### Domain Adaptation
+![image](https://github.com/ijaz-lab/LLMS-GenerativeAI/assets/78338522/7302292f-eebb-4205-b156-cb02a887fe8d)
+
+##### DOLLY
+![image](https://github.com/ijaz-lab/LLMS-GenerativeAI/assets/78338522/7462a63d-c5cf-4558-9811-f7a187fbca64)
+
+
+#### Mixing LLM Falvour
+![image](https://github.com/ijaz-lab/LLMS-GenerativeAI/assets/78338522/f4dbe26e-4a99-4f87-9e38-8dfccf4bb9ca)
+
+
+![image](https://github.com/ijaz-lab/LLMS-GenerativeAI/assets/78338522/b456c5e5-ce9d-4766-aa61-16219fea1d47)
 
